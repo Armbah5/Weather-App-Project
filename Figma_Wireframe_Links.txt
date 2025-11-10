@@ -1,0 +1,18 @@
+Weather App Wireframes – CIS 332 Project
+Created by: Abubakarr Mansaray & Abdulrahman Bah
+Date: Fall 2025
+
+----------------------------------------
+🏠 Home Page
+Desktop: https://www.figma.com/design/UGo9uf8xM13XPjyryPq5aP/Draft?node-id=0-1&t=VMNjtUuwMUGD1LjW-1
+Mobile:  https://www.figma.com/design/UGo9uf8xM13XPjyryPq5aP/Draft?node-id=9-6&t=VMNjtUuwMUGD1LjW-1
+
+🌦 Weather Details Page
+Desktop: https://www.figma.com/design/UGo9uf8xM13XPjyryPq5aP/Draft?node-id=2-29&t=VMNjtUuwMUGD1LjW-1
+Mobile:  https://www.figma.com/design/UGo9uf8xM13XPjyryPq5aP/Draft?node-id=9-6&m=dev&t=VMNjtUuwMUGD1LjW-1
+
+☁️ Error / No Results Page
+Desktop: https://www.figma.com/design/UGo9uf8xM13XPjyryPq5aP/Draft?node-id=2-29&t=VMNjtUuwMUGD1LjW-1
+Mobile:  https://www.figma.com/design/UGo9uf8xM13XPjyryPq5aP/Draft?node-id=9-6&t=VMNjtUuwMUGD1LjW-1
+
+----------------------------------------
